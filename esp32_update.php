@@ -1,7 +1,7 @@
 <?php
 $servername = "sql107.infinityfree.com";
 $dBUsername = "if0_34931116";
-$dBPassword = "cG3lqgoxvLrZf";
+$dBPassword = "";
 $dBName = "if0_34931116_esp32";
 $conn = mysqli_connect($servername, $dBUsername, $dBPassword, $dBName);
 if (!$conn) {
